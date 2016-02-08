@@ -1,0 +1,215 @@
+* {
+	text-align: center;
+	font-family: serif;
+}
+header {
+    position: fixed;
+    z-index: 20;
+    background: white;
+    width: 100%
+}
+.pic{
+	width: 100px;
+	height: 90px;
+	margin-left: -300px;
+}
+li {
+	display: inline-block;
+	margin: 25px 15px 10px;
+	color: #A3ABB2;
+}
+ul {
+	margin: 10px 0px;
+} 
+.pink {
+	background-color: #F2F2F2;
+	width: 100%;
+	padding: 80px 0px;
+}
+.plants {
+	background: url("../img/semilla.jpg")no-repeat;
+    background-size: 100% 150%;
+    height: 534px;
+    width: 100%;
+    background-position: -5px -80px;
+}
+section {
+	margin.top:50px;
+}
+.parrafo1 {
+	color: #A3ABB2;
+}
+.mission {
+	margin-top: 70px;
+	width: 120px;
+	height: 120px;
+}
+.vission {
+	width: 333px;
+	display: inline-block;
+}
+.texto{
+	color:  #A3ABB2;
+	margin-bottom: 70px;
+}
+p {
+	font-size: 10px;
+	color:  #A3ABB2;
+}
+.first {
+	background: url("../img/fondo.jpg")repeat;
+    width: 100%;
+    height: 310px;
+    padding: 0px;
+}
+.metod {
+	width: 650px;
+    height: 400px;
+    clip: rect(0px 650px 310px 0px);
+    position: absolute;
+    margin-left: -27em;
+}
+.icono {
+	    margin: 70px 300px;
+	    padding-bottom: 10px;
+}
+.metodolog {
+	color: white;
+    top: -62px;
+    left: 111px;
+    position: relative;
+    padding-bottom: 10px;
+} 
+.servicios {
+	width: 1131px;
+    margin-left: -96px;
+}
+.verde {
+    color: #5E8039;
+    margin-bottom: 7px;
+}
+.sericon {
+	margin-top: 40px; 
+	width: 100px;
+	height: 100px;
+} 
+.seis {
+	width: 200px;
+	display: inline-block;
+	margin-top: 40px; 
+}
+.serv {
+	margin: 50px 0px 25px;
+}
+.white {
+	color: white;
+}
+.proyecto {
+	width: 471px;
+    height: 312px;
+    left: -105px;
+    position: relative;
+}
+.second {
+	background-color: #5E8039;
+	width: 100%;
+	padding: 70px;
+	margin-top: 57px;
+}
+.move {
+	margin-left: -530px;
+}
+.move2 {
+    margin-top: 70px;
+}
+.equipo {
+	width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    margin-bottom: 30px;
+}
+.redes {
+	width: 30px;
+	height: 30px;
+	margin: 30px 0px;
+}
+.move3 {
+	color: #5E8039;
+	margin:50px 0px 0px -900px;
+}
+.fondo3 {
+	background: url(../img/fondo2.jpg)repeat;
+	width: 100%;
+	background-size: 100% 150%;
+}
+.blog {
+	margin-left: -930px;
+}
+.fotospost {
+	display: inline-block;
+	width: 250px;
+	height: 190px;
+}
+.post, .fecha, .elit {
+	color: #4D4D4D;
+	text-align: left;
+}
+.line {
+	display: inline-block;
+	width: 250px;
+	margin: 30px;
+}
+.fondo4 {
+	background-color: #4D4D4D;
+	width: 100%;
+	padding: 50px 5px;
+}
+.redes {
+	color: white;
+	text-align: left;
+	padding: 30px;
+	margin-top: -2px;
+}
+.redessociales {
+	border: 1px solid white;
+	display: inline-block;
+	width: 304px;
+    height: 220px;
+    margin: -2px;
+}
+.sociales {
+	width: 40px;
+	height: 40px;
+	margin: 70px -115px 0px 0px;
+}
+.fondo5 {
+	background-color: #F2F2F2;
+	width: 100%;
+}
+.izq {
+	padding: 50px;
+	width: 1000px;
+	margin-left: -200px;
+}
+.hola, .des, .num {
+	color: #4D4D4D;
+}
+.orange {
+	color: #F8C622;
+}
+.orange, .des {
+	text-align: left;
+}
+.hola, .num {
+	text-align: right;
+	margin-right: -312px;
+}
+.flecha1 {
+	margin-left: -1209px;
+    margin-bottom: -170px;
+}
+.flecha2 {
+	margin-right: -1162px;
+    top: -205px;
+    position: relative;
+}
